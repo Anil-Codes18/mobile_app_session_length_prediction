@@ -60,27 +60,36 @@ The data is cleaned and preprocessed before being used for model training.
 
 Dataset
 
+    ↓
+Data Cleaning
 
    ↓
-Data Cleaning
-   ↓
 Exploratory Data Analysis
+
    ↓
 Feature Engineering
+
    ↓
 Data Preprocessing
+
    ↓
 Train-Test Split
+
    ↓
 Model Training
+
    ↓
 Model Evaluation
+
    ↓
 Save Model
+
    ↓
 Streamlit Web Application
+
    ↓
 Session Length Prediction
+
 
 ---
 
@@ -124,14 +133,19 @@ The user can enter the required input values, and the application predicts the e
 Application Workflow
 
 User Input
+
     ↓
 Data Preprocessing
+
     ↓
 Trained ML Model
+
     ↓
 Prediction
+
     ↓
 Predicted Session Length
+
 
 ---
 
