@@ -60,7 +60,7 @@ The data is cleaned and preprocessed before being used for model training.
 
 Dataset
 
-    ↓
+   ↓
 Data Cleaning
 
    ↓
@@ -71,9 +71,8 @@ Feature Engineering
 
    ↓
 Data Preprocessing
-
    ↓
-Train-Test Split
+Train-Test Spli
 
    ↓
 Model Training
